@@ -1,0 +1,7 @@
+*.vscode
+.vscode
+.dccache
+*.dccache
+.idea
+*idea
+__pycache__
